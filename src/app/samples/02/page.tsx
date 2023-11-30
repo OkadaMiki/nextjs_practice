@@ -7,5 +7,5 @@ export default function sample02(){
                 <h1 className={style.text}>sample02</h1>
             </div>
         </>
-        )
-}
+    )
+} 
